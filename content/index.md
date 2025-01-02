@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Home
 ---
 
 This is me testing lmao lmao lmao 
