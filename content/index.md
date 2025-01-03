@@ -2,7 +2,7 @@
 title: Home
 ---
 <h4>→ Hey, I'm Miguel</h4>
-![[content/imgs/Screenshot 2025-01-03 at 1.50.17 AM.png]]
+![](content/imgs/Screenshot%202025-01-03%20at%201.50.17%20AM.png)
 Welcome to my site! I am a student and researcher focused on robotics, embedded and distributed systems, and low level programming. I've been a part of robotics for nearly a decade (maybe link to past robotics page here) throughout my youth and through to now.
 
 I'm currently an undergrad pursuing Computer Science at Cal Poly SLO, and my grades (link to transcript) aren't too shabby. I have also been lucky enough to pursue research(link to page on research) at Cal Poly, both over Summer 2024 and continuing this Winter Quarter 2025. 
