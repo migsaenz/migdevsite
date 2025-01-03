@@ -1,2 +1,2 @@
-![test text](content/imgs/IMG_2272.jpg)
+![[IMG_2272.jpg]]
 This is the second test page lol lmao
